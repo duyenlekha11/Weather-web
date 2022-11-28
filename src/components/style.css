@@ -1,4 +1,99 @@
 .image1 {
-    width: 800px;
-    height: 600px;
+    top: 40px;
+    width: 700px;
+    height: 400px;
+    position: absolute;
+    right: 150px;
+}
+.paragraph {
+    top: 40px;
+    position: absolute;
+    left: 300px;
+    width: 650px;
+    height: 120px;
+    font-size: 25px;
+    color: #191971;
+}
+.graph1 {
+    position: absolute;
+    left: 300px;
+    top: 450px;
+    width: 700px;
+    height: 450px;
+}
+.graph2 {
+    position: absolute;
+    right: 150px;
+    top: 450px;
+    width: 700px;
+    height: 450px;
+}
+.year1 {
+    position: center;
+    color: #191971;
+    font-size: 60px;
+    left: 800px;
+    width: 700px;
+ 
+}
+
+.year2 {
+    position: center;
+    color: #191971;
+    font-size: 60px;
+    left: 800px;
+    width: 700px;
+ 
+}
+.calendar {
+    position: center;
+    color: #191971;
+    font-size: 17px;
+    left: 800px;
+}
+.temp {
+    position: center;
+    color: #191971;
+    font-size: 17px;
+    left: 800px;
+
+}
+.month {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    left: 80px;
+}
+.hot {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 185px;
+}
+.cold {
+    width: 45px;
+    height: 30px;
+    position: absolute;
+    left: 175px;
+}
+.jan {
+    width: 50px;
+    height: 40px;
+    top: 7px;
+    position: absolute;
+    
+}
+.f {
+    width: 25px;
+    height: 25px;
+    top: 20px;
+    left: 40px;
+    position: absolute;
+    
+}
+.hitemp {
+    font-size: 20px;
+}
+.lotemp {
+    font-size: 20px;
 }

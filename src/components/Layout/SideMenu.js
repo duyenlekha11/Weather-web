@@ -43,11 +43,7 @@ const App = () => {
           </Menu.Item>
         </Menu.SubMenu>
 
-        <Menu.Item key="/contactUs">
-          <TeamOutlined />
-          <span>Contact Us</span>
-          <Link to="/ContactUs"></Link>
-        </Menu.Item>
+       
         
       </Menu>
     </Sider>
